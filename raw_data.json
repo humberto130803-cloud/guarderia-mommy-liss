@@ -1,0 +1,43 @@
+{
+  "google": {
+    "name": "Guarderia Mommy Liss",
+    "category": "Institución educativa",
+    "address": "C. Cádiz, Panamá, Provincia de Panamá",
+    "phone": "6742-6630",
+    "website": "",
+    "hours": {},
+    "rating": "5.0",
+    "review_count": "",
+    "reviews": [
+      {
+        "name": "Daniel Jaramillo\n6 opiniones · 1 foto",
+        "stars": "5",
+        "text": "Excelente guarderia, muy atentos, cuiden de tu hijo como si fueran de ellos, full recomendado"
+      },
+      {
+        "name": "Daniel Jaramillo\n6 opiniones · 1 foto",
+        "stars": "5",
+        "text": "Excelente guarderia, muy atentos, cuiden de tu hijo como si fueran de ellos, full recomendado"
+      },
+      {
+        "name": "Karol Andrea Cuevas\n1 opinión",
+        "stars": "5",
+        "text": "Karol Andrea Cuevas"
+      },
+      {
+        "name": "Karol Andrea Cuevas\n1 opinión",
+        "stars": "5",
+        "text": "Karol Andrea Cuevas"
+      }
+    ],
+    "photos_downloaded": [
+      "C:\\Users\\humbe\\selling websites\\_temp_assets_w3\\maps_photo_1.jpg"
+    ]
+  },
+  "social": {},
+  "socials_urls": {
+    "instagram": "",
+    "facebook": ""
+  },
+  "scraped_at": "2026-03-12T04:37:28.711070"
+}
